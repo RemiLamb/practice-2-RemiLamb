@@ -1,25 +1,25 @@
-body {
+body{
   background: #F6F6F4;
   color: #111111;
 }
 
-nav {
+nav{
   background: #FACB37;
   color: #111111;
   border: 6px solid #111111;
 }
 
-header {
+header{
   background: #3153D1;
   color: #F6F6F4;
   border: 6px solid #111111;
 }
 
-h1 {
+h1{
   color:#FACB37;
 }
 
-img {
+img{
   width: 420px;
   height: 260px;
    border: 6px solid #F6F6F4;
@@ -29,6 +29,8 @@ aside {
   background: #D83134;
   color: #F6F6F4;
   border: 6px solid #111111;
+  width: 300px;
+  height: 320px;
 }
 
 main{
@@ -36,7 +38,7 @@ main{
  border: 6px #111111;  
 }
 
-article {
+article{
    background: #FFFFFF; 
    border: 3px #111111;
 }
@@ -50,6 +52,13 @@ h2 {
   color: #D83134;
 }
 
-h3 {
+h3{
   color: #3153D1;
+}
+
+footer{
+ background: #111111;
+  color: #F6F6F4;
+  border: 6px solid #FACB37;
+  height: 260px;
 }
