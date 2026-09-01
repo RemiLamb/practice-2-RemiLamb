@@ -24,3 +24,32 @@ img {
   height: 260px;
    border: 6px solid #F6F6F4;
 }
+
+aside {
+  background: #D83134;
+  color: #F6F6F4;
+  border: 6px solid #111111;
+}
+
+main{
+ background: #F6F6F4;
+ border: 6px #111111;  
+}
+
+article {
+   background: #FFFFFF; 
+   border: 3px #111111;
+}
+
+section{
+     background: #FACB37; 
+   border: 6px #D83134;
+}
+
+h2 {
+  color: #D83134;
+}
+
+h3 {
+  color: #3153D1;
+}
